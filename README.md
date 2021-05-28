@@ -1,6 +1,6 @@
-#React eCommerce Tutorial
+# React eCommerce Tutorial
 
-##Background
+## Background
 
 This is the implementation of a tutorial intended to teach React Redux using the example of an eCommerce storefront. 
 While other React core functionality may be used, the focus of the tutorial was on the topic of incorporating React Redux into a project.
